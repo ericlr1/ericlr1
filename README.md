@@ -6,6 +6,7 @@ Hey! I'm Eric, and I am a software developer and a game programmer.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericgamedev/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/EricGameDev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/ericgamedev/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-%23FF4713.svg?logo=itch.io&logoColor=white)](https://ericlr.itch.io/)
 
 
 # 💻 Tech Stack:
